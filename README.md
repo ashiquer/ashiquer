@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md. Ashiquer Rahman</h1>
 
+<h3 align="center">I am a full-stack SQA and software test automation engineer. I always try to fulfill my responsibilities on time and play a significant role along with my team. I always think that patience, dedication, and new things learning mindset is the key to success.</h3>
+
    <img align="center" alt="Coding" width="270" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
 - 🌱 I’m currently learning **Software Quality Assurance Engineer.**
